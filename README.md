@@ -3,4 +3,5 @@ In this repository, I will add all the <b>Lab Tasks</b> I was given to do in the
 <br>
 <br>
 Author - <b>Khizar Rehman</b>
-Email - <b>khizarrehman.professional@gmail.com</b>
+<br>
+Email - <b>KhizarRehman.Professional@gmail.com</b>
