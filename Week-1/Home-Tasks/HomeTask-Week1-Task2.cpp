@@ -3,9 +3,9 @@
 // So, I just skipped it and only uploaded Week 1 - Home Task 2. 
 
 /*
- * @file HomeTask-Week1-Task2.cpp
- * @author Khizar Rehman
- * @brief Program to prints the time table for 2 up to 10.
+ * @file     HomeTask-Week1-Task2.cpp
+ * @author   Khizar Rehman
+ * @brief    Program to prints the time table for 2 up to 10.
  * @details  Prints the time table for 2 up to 10 using only print statement.
  */
 #include <iostream>
