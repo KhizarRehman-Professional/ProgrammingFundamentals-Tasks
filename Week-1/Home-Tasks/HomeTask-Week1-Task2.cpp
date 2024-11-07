@@ -1,11 +1,15 @@
+// Note:
+// Week 1 - Home Task 1 was just installing an IDE for C++ Programming Language. 
+// So, I just skipped it and only uploaded Week 1 - Home Task 2. 
+
+/*
+ * @file HomeTask-Week1-Task2.cpp
+ * @author Khizar Rehman
+ * @brief Program to prints the time table for 2 up to 10.
+ * @details  Prints the time table for 2 up to 10 using only print statement.
+ */
 #include <iostream>
 using namespace std;
-/**
-  Week 1 - Home Task 1 was just installing an IDE for C++ Programming Language. 
-  So, I just skipped it and only uploaded Week 1 - Home Task 2. 
-  
-  @brief Prints the times table for 2 up to 10 using only print statement.
- */
 int main() {
     cout << "2  x  1  =  02" << endl;
     cout << "2  x  2  =  04" << endl;
