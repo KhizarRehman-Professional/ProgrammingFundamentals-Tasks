@@ -1,7 +1,7 @@
 /**
- * @file LabTask-Week2-Task1.cpp
- * @author Khizar Rehman
- * @brief A program that takes user input and displays it. 
+ * @file    LabTask-Week2-Task1.cpp
+ * @author  Khizar Rehman
+ * @brief   A program that takes user input and displays it. 
  * @details This program will take user input for their id, first name, and course name. 
  *          It will then display the input back to the user.
  */
