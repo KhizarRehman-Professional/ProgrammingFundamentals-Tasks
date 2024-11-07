@@ -1,7 +1,7 @@
 /**
- * @file LabTask-Week1-Task1.cpp
- * @author Khizar Rehman
- * @brief Program to calculate the sum of two numbers.
+ * @file    LabTask-Week1-Task1.cpp
+ * @author  Khizar Rehman
+ * @brief   Program to calculate the sum of two numbers.
  * @details This program takes two numbers as input and displays their sum.
  */
   #include <iostream>
