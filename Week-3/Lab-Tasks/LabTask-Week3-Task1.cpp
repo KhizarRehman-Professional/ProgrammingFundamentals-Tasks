@@ -2,7 +2,7 @@
  * @file    LabTask-Week3-Task1.cpp
  * @author  Khizar Rehman
  * @brief   This program calculates the circumference of a circle.
- * @details The program asks the user to enter the radius of the circle and then calculates the circumference using the formula 2 * pi * r.
+ * @details The program asks the user radius of the circle and then calculates the circumference.
  */
 
 #include <iostream>
